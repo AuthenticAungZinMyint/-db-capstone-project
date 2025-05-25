@@ -1,57 +1,65 @@
-Little Lemon Database Capstone Project
+# Little Lemon Database Capstone Project
 
-Description
-
+## Description
 This is the capstone project for the Meta Database Engineering Professional Certificate, designed to showcase and enhance the skills acquired throughout the individual courses of the certificate program.
 
-Learning Objectives/Skills Demonstrated
+## Learning Objectives/Skills Demonstrated
+- Data Analysis
+- SQL (Structured Query Language)
+- Database Concepts (Design, Modeling, Management)
+- Data Visualization
+- Python Programming
+- Git (Version Control)
 
-Data Analysis
-SQL (Structured Query Language)
-Database Concepts (Design, Modeling, Management)
-Data Visualization
-Python Programming
-Git (Version Control)
+## Key Features/Tasks
 
-Key Features/Tasks
+### Database Modeling
+- Designing the logical and physical structure of the Little Lemon database
+- Creating Entity Relationship Diagrams to visualize database schema
 
-Database Modeling: Designing the logical and physical structure of the Little Lemon database.
-ERD Design: Creating Entity Relationship Diagrams to visualize database schema.
-Table Creation: Implementing tables in MySQL Workbench, including:
+### Table Creation
+Implementing tables in MySQL Workbench, including:
+- Orders
+- Customers
+- Order Details
+- Bookings
+- Menu Items
+- Order Delivery Status
 
-Orders
-Customers
-Order Details
-Bookings
-Menu Items
-Order Delivery Status
-SQL Operations:
+### SQL Operations
+- Writing complex queries for data retrieval and analysis
+- Creating Stored Procedures for reusable SQL code
+- Developing Views for simplified data access
+- Implementing Transactions to ensure data integrity
 
-Writing complex queries for data retrieval and analysis.
-Creating Stored Procedures for reusable SQL code.
-Developing Views for simplified data access.
-Implementing Transactions to ensure data integrity.
-Reporting:
+### Reporting
+- Generating efficient database reports
+- Utilizing Tableau and the Little Lemon DB Excel sheet to build an interactive report dashboard
 
-Generating efficient database reports.
-Utilizing Tableau and the Little Lemon DB Excel sheet to build an interactive report dashboard.
+## Technologies Used
+- Python (Version 3.XX)
+- MySQL
+- MySQL Workbench
+- Tableau
+- Git
 
-Technologies Used
+## Setup/Installation Instructions
 
-Python (Version 3.XX)
-MySQL
-MySQL Workbench
-Tableau
-Git
+### Required Software
+1. **Python**: Ensure Python version 3.XX is installed
+   - Download from [python.org](https://python.org)
 
-Setup/Installation Instructions
+2. **MySQL**: Install MySQL Community Server
+   - Download from [dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
 
-Python: Ensure Python version 3.XX is installed. Download from python.org.
-MySQL: Install MySQL Community Server. Download from dev.mysql.com/downloads/mysql/.
-MySQL Workbench: Install MySQL Workbench for database design and management. Download from dev.mysql.com/downloads/workbench/.
-Tableau: Install Tableau Desktop or Tableau Public for data visualization. Download from tableau.com.
+3. **MySQL Workbench**: Install MySQL Workbench for database design and management
+   - Download from [dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
 
-Usage (Common Git Commands)
+4. **Tableau**: Install Tableau Desktop or Tableau Public for data visualization
+   - Download from [tableau.com](https://tableau.com)
+
+## Usage (Common Git Commands)
+
 
 Here are some common Git commands to interact with the project repository:
 
